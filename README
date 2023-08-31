@@ -1,0 +1,5 @@
+# This is a Python image of version 3.10 based on ubuntu 22.04
+### note: I have set this image to be automatically built every three days, so that the project's image can be updated at any time.
+-------------------
+
+Why is there this mirror image? Because there will be some programs required by some Python programs that only have the corresponding Ubuntu installation source, so there is this Ubuntu packaged Python image.
